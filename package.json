@@ -1,0 +1,21 @@
+{
+  "name": "blackred",
+  "displayName": "BlackRed",
+  "description": "Pure Black and a tint of Red",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BlackRed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BlackRed-color-theme.json"
+      }
+    ]
+  }
+}
